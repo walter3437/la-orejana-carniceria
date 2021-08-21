@@ -152,6 +152,10 @@
 
             .logo {
                 align-self: center;
+
+                .logo-img {
+                    width: 12rem;
+                }
             }
         }
         
@@ -243,5 +247,4 @@
             }
         }
     }
-    
 }
